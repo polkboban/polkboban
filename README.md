@@ -5,13 +5,13 @@
 
 Building resilient backend architectures, clean APIs, and responsive frontends.
 
-[Email](mailto:polkboban@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) · [Portfolio](https://YOUR-WEBSITE.com) · [Resume](https://YOUR-RESUME-LINK.com)
+[Email](mailto:polkboban@gmail.com) · [LinkedIn](https://linkedin.com/in/YOUR_USERNAME) · [Resume](https://YOUR-RESUME-LINK.com)
 
 </div>
 
 ---
 
-### 💻 Stack & Tools
+### Stack & Tools
 
 | Domain | Technologies |
 | :--- | :--- |
